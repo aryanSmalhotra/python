@@ -1,0 +1,7 @@
+a = int(input("enter a no"))
+if a ==0:
+    print(a,"is not an integer")
+elif a%2==0:
+    print(a,"is even");
+else:
+    print(a,"is odd");
